@@ -1,5 +1,6 @@
 {  
   "features": {
-    "ghcr.io/prulloac/devcontainer-features/bun:1.2.0": {}
+    "ghcr.io/prulloac/devcontainer-features/bun:1.2.0": {},
+    "ghcr.io/devcontainers/features/rust:1": {}
   }
 }
